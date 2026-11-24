@@ -77,7 +77,15 @@ python obzen_gyrosense.py --flip --flippitch --fliproll
 | **`Q`** / **Close App (Q)** | Quit the application |
 
 ---
+## UI & Live Demo
 
+![OBZEN GyroSense Live 3D Attitude Demo](./gyrosense-demo.gif)
+
+![OBZEN GyroSense 3D Attitude View](./gyrosense-attitude-view.png)
+
+![OBZEN GyroSense Aft Nozzle View](./gyrosense-nozzle-view.png)
+
+![OBZEN GyroSense Climb Attitude View](./gyrosense-climb-attitude.png)
 ## How to Use
 
 1. Launch `obzen_gyrosense.py` and wait for it to scan and connect to **`XIAO-IMU`**.
