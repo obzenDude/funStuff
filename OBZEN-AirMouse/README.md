@@ -2,6 +2,8 @@
 
 Wireless Bluetooth Low Energy (BLE) HID air mouse firmware for the **Seeed XIAO nRF52840 Sense** (`XIAO-nRF52840-AirMouse`), powered by its onboard **LSM6DS3** 6-axis IMU (`0x6A`) and **Adafruit Bluefruit nRF52** (`BLEHidAdafruit`).
 
+[image.png demo](nrf52840.png)
+
 <a href="nrf52840.png"><img src="nrf52840.png" alt="OBZEN AirMouse Demo" width="280"></a>
 
 ## Overview
