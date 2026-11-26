@@ -4,6 +4,8 @@ Wireless Bluetooth Low Energy (BLE) HID air mouse firmware for the **Seeed XIAO 
 
 [nrf52840.png demo](nrf52840.png)
 
+<img src="nrf52840.png" alt="nrf52840.png demo" width="220">
+
 ## Overview
 
 OBZEN-AirMouse turns a Seeed XIAO nRF52840 Sense into a motion-controlled wireless mouse over Bluetooth Low Energy. Gyroscope and accelerometer readings from the onboard LSM6DS3 are filtered, mapped through a deadzone and sensitivity/acceleration curve with sub-pixel precision, and sent as standard BLE HID mouse reports (`dx`, `dy`)—requiring no USB dongle, companion receiver, or Python script on the host computer.
